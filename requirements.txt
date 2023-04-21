@@ -1,0 +1,9 @@
+absl-py==0.11.0
+h5py==2.10.0
+MedPy==0.4.0
+nibabel==3.2.0
+opencv-python==4.5.2
+scikit-image==0.17.2
+scipy==1.5.3
+SimpleITK==2.1.1
+tensorboardX==2.1
