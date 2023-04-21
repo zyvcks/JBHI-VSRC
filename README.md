@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 #### Step 4. Prepare datasets
 
-- Download the [Atrial Segmentation Challenge dataset (LA2018)]( http://atriaseg2018.cardiacatlas.org/), follow the data preparation instructions of [UA-MT](https://github.com/yulequan/UA-MT) to convert medical images into h5 files and get the training and test sets. Taking the dataset LA2018 as an example, the prepared data looks as follows:
+- Download the [Atrial Segmentation Challenge dataset (LA2018)](https://www.cardiacatlas.org/atriaseg2018-challenge/), follow the data preparation instructions of [UA-MT](https://github.com/yulequan/UA-MT) to convert medical images into h5 files and get the training and test sets. Taking the dataset LA2018 as an example, the prepared data looks as follows:
 ```
     datasets/
         ├── LA2018
